@@ -8,7 +8,7 @@ fecha_actual = datetime.now().strftime("%Y-%m-%d")
 url = "https://api-football-v1.p.rapidapi.com/v3/fixtures"
 headers = {
     "X-RapidAPI-Key": "x",
-    "X-RapidAPI-Host": "api-football-v1.p.rapidapi.com"
+    "X-RapidAPI-Host": "x"
 }
 
 def obtener_partido_hoy(equipo_id):
