@@ -77,3 +77,4 @@ def obtener_partido_hoy(equipo_id):
                 f"{fixture['fixture']['venue']['name']}.")
     else:
         return f"No hay partidos para el equipo con ID {equipo_id} hoy."
+# cuenta de twitter @PinchaTriperoLP
