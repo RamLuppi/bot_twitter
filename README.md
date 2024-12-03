@@ -1,0 +1,2 @@
+Este script en Python utiliza las librerías tweepy y requests para consultar a través de una API si Estudiantes de La Plata o Gimnasia de La Plata tienen partidos en una fecha específica. Si hay partidos programados, el script genera un mensaje con la información del evento y lo publica automáticamente en Twitter mediante tweepy. El código está configurado para ejecutarse diariamente en PythonAnywhere, permitiendo la publicación automatizada y oportuna de las actualizaciones de los partidos.
+Cuenta de twitter @PinchaTriperoLP
