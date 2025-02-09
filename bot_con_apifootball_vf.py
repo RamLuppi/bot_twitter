@@ -74,6 +74,3 @@ for equipo_id, equipo_nombre in equipos.items():
         logging.info(f"Tweet publicado para {equipo_nombre}.")
     else:
         logging.info(f"Hoy no hay partido para {equipo_nombre}.")
-
-# cuenta de twitter @PinchaTriperoLP
-# fecha expiracion pythonanywhere 2024-12-30
